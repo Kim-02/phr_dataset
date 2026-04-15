@@ -7,3 +7,4 @@ db_select.py
 logistic_regression.py
 new_label.py
 *.csv
+__pycache__
