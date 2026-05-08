@@ -8,3 +8,5 @@ logistic_regression.py
 new_label.py
 *.csv
 __pycache__
+.codex
+.agents
